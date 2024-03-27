@@ -6,6 +6,7 @@ Computer Vision/Machine Learning Engineer
 
 I'm a computer vision/machine learning engineer who also has experience with hardware and biomedical engineering
 * 🌍  I'm based in United States
+* 🖥️  See my portfolio at [My Portfolio](http://www.ryanashbaugh.com/)
 * ✉️  You can contact me at [ryan.ashbaugh@protonmail.com](mailto:ryan.ashbaugh@protonmail.com)
 * 🧠  I'm learning React, Three.js and Unity development
 
